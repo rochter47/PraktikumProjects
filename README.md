@@ -1,5 +1,5 @@
 # PraktikumProjects
-My projects implemented while Yandex.Praktikum education
+My projects implemented while I having been part of Yandex.Praktikum. All of it was checked by more experienced code reviewer. Every critical notes was hard worked and rebuilt.  
 Name | Short desription and Link|
 ----|-----|
 ML_baseline|Creating baseline ML models, comparing effective indicators (logistic regression and RandomForestClassifier), churn prediction for sport-club and clusterization of clients.   https://github.com/rochter47/PraktikumProjects/tree/master/ML_baseline
