@@ -2,7 +2,7 @@
 My projects implemented while Yandex.Praktikum education
 Name | Link|
 ----|-----|
-bank_clients_analysis | Clean and analysis-ready data as the first step towards solving an analytical problem. Taking a closer look at tools that are used to compensate for less-than-perfect data.https://github.com/rochter47/PraktikumProjects/tree/master/bank_clients_analysis
+bank_clients_analysis | Clean and analysis-ready data as the first step towards solving an analytical problem. Taking a closer look at tools that are used to compensate for less-than-perfect data.  https://github.com/rochter47/PraktikumProjects/tree/master/bank_clients_analysis
 statistical analysis_telecom_company| https://github.com/rochter47/PraktikumProjects/tree/master/statistical%20analysis_telecom_company
 hypothesis_prioritization_AB_Test_analysis|https://github.com/rochter47/PraktikumProjects/tree/master/hypothesis_prioritization_AB_Test_analysis
 games_analysis_for_internet_shop|https://github.com/rochter47/PraktikumProjects/tree/master/games_analysis_for_internet_shop
