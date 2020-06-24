@@ -8,9 +8,9 @@ hypothesis_prioritization_AB_Test_analysis|Hypothesis prioritization, preprocess
 games_analysis_for_internet_shop|Deep exploratory data analysis of compute games market.     https://github.com/rochter47/PraktikumProjects/tree/master/games_analysis_for_internet_shop
 food_market_visualization|Visualization of insight and result of food market research.     https://github.com/rochter47/PraktikumProjects/tree/master/food_market_visualization
 flights_company_analysis|Load data from DB and checking hypothesis in statistics meaning.  https://github.com/rochter47/PraktikumProjects/tree/master/flights_company_analysis
-exploratory_data_analysis_estate_market| https://github.com/rochter47/PraktikumProjects/tree/master/exploratory_data_analysis_estate_market
-business_metrics_research_entertainment_ticket_sales_platform|https://github.com/rochter47/PraktikumProjects/tree/master/business_metrics_research_entertainment_ticket_sales_platform 
-app_food_delivery_event_based_analysis| https://github.com/rochter47/PraktikumProjects/tree/master/app_food_delivery_event_based_analysis
-TeddyFood_EDA|https://github.com/rochter47/PraktikumProjects/tree/master/TeddyFood_EDA
+exploratory_data_analysis_estate_market|Applying exploratory data analysis of estate market.  https://github.com/rochter47/PraktikumProjects/tree/master/exploratory_data_analysis_estate_market
+business_metrics_research_entertainment_ticket_sales_platform|Calculating and visualization business indicators such as LTV, CAC, ROMI etc., cohort analysis for ticket sales platform.   https://github.com/rochter47/PraktikumProjects/tree/master/business_metrics_research_entertainment_ticket_sales_platform 
+app_food_delivery_event_based_analysis|Creating funnels, analyzed them, implement event based analysis.  https://github.com/rochter47/PraktikumProjects/tree/master/app_food_delivery_event_based_analysis
+TeddyFood_EDA|Implementing deep EDA and looking for any new insights for charity platform.  https://github.com/rochter47/PraktikumProjects/tree/master/TeddyFood_EDA
 
 For any questions feel free to contact  rochter47@gmail.com.
