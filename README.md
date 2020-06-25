@@ -4,7 +4,7 @@ Name with link | Short desription|Libraries
 ----|-----|-----|
 [Prognoses and predictions](https://github.com/rochter47/PraktikumProjects/tree/master/ML_baseline)|Creating baseline ML models, comparing effective indicators (logistic regression and RandomForestClassifier), churn prediction for sport-club and clusterization of clients.| pandas, numpy, matplotlib.pyplot, seaborn, sklearn, scipy 
 
-bank_clients_analysis | During this project I applied preproccesing data skills.  Clean and analysis-ready data as the first step towards solving an analytical problem. Taking a closer look at tools that are used to compensate for less-than-perfect data.  https://github.com/rochter47/PraktikumProjects/tree/master/bank_clients_analysis
+[Data preprocessing](https://github.com/rochter47/PraktikumProjects/tree/master/bank_clients_analysis) | During this project I applied preproccesing data skills.  Clean and analysis-ready data as the first step towards solving an analytical problem. Taking a closer look at tools that are used to compensate for less-than-perfect data.| pandas  
 statistical analysis_telecom_company| Implemented statistical data analysis to checking hypothesis for approving  difference between different tariffs.   https://github.com/rochter47/PraktikumProjects/tree/master/statistical%20analysis_telecom_company
 hypothesis_prioritization_AB_Test_analysis|Hypothesis prioritization, preprocessing and implementing A/B test. Result Analysing.       https://github.com/rochter47/PraktikumProjects/tree/master/hypothesis_prioritization_AB_Test_analysis
 games_analysis_for_internet_shop|Deep exploratory data analysis of compute games market.     https://github.com/rochter47/PraktikumProjects/tree/master/games_analysis_for_internet_shop
