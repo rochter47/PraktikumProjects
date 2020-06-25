@@ -1,8 +1,8 @@
 # PraktikumProjects
 My projects implemented while I having been part of Yandex.Praktikum. All of it was checked by more experienced code reviewer. Every critical notes was hard worked and rebuilt.  
 Name with link | Short desription|Libraries
-----|-----|
-[Prognoses and predictions](https://github.com/rochter47/PraktikumProjects/tree/master/ML_baseline)|Creating baseline ML models, comparing effective indicators (logistic regression and RandomForestClassifier), churn prediction for sport-club and clusterization of clients.|  pandas as pd
+----|-----|-----|
+[Prognoses and predictions](https://github.com/rochter47/PraktikumProjects/tree/master/ML_baseline)|Creating baseline ML models, comparing effective indicators (logistic regression and RandomForestClassifier), churn prediction for sport-club and clusterization of clients.| pandas as pd
 numpy as np
 matplotlib.pyplot as plt
 seaborn as sns
