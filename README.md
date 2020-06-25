@@ -2,18 +2,8 @@
 My projects implemented while I having been part of Yandex.Praktikum. All of it was checked by more experienced code reviewer. Every critical notes was hard worked and rebuilt.  
 Name with link | Short desription|Libraries
 ----|-----|-----|
-[Prognoses and predictions](https://github.com/rochter47/PraktikumProjects/tree/master/ML_baseline)|Creating baseline ML models, comparing effective indicators (logistic regression and RandomForestClassifier), churn prediction for sport-club and clusterization of clients.| pandas as pd
-numpy as np
-matplotlib.pyplot as plt
-seaborn as sns
-sklearn.preprocessing import StandardScaler
-sklearn.model_selection import train_test_split
-sklearn.linear_model import LogisticRegression
-sklearn.ensemble import RandomForestRegressor
-sklearn.metrics import accuracy_score, precision_score, recall_score
-sklearn.ensemble import RandomForestClassifier
-scipy.cluster.hierarchy import dendrogram, linkage
-sklearn.cluster import KMeans 
+[Prognoses and predictions](https://github.com/rochter47/PraktikumProjects/tree/master/ML_baseline)|Creating baseline ML models, comparing effective indicators (logistic regression and RandomForestClassifier), churn prediction for sport-club and clusterization of clients.| pandas, numpy, matplotlib.pyplot, seaborn, sklearn, scipy 
+
 bank_clients_analysis | During this project I applied preproccesing data skills.  Clean and analysis-ready data as the first step towards solving an analytical problem. Taking a closer look at tools that are used to compensate for less-than-perfect data.  https://github.com/rochter47/PraktikumProjects/tree/master/bank_clients_analysis
 statistical analysis_telecom_company| Implemented statistical data analysis to checking hypothesis for approving  difference between different tariffs.   https://github.com/rochter47/PraktikumProjects/tree/master/statistical%20analysis_telecom_company
 hypothesis_prioritization_AB_Test_analysis|Hypothesis prioritization, preprocessing and implementing A/B test. Result Analysing.       https://github.com/rochter47/PraktikumProjects/tree/master/hypothesis_prioritization_AB_Test_analysis
