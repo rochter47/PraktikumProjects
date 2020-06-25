@@ -2,24 +2,16 @@
 My projects implemented while I having been part of Yandex.Praktikum. All of it was checked by more experienced code reviewer. Every critical notes was hard worked and rebuilt.  
 Name with link | Short desription|Libraries|
 ----|-----|-----|
-[Prognoses and predictions](https://github.com/rochter47/PraktikumProjects/tree/master/ML_baseline)|Creating baseline ML models, comparing effective indicators (logistic regression and RandomForestClassifier), churn prediction for sport-club and clusterization of clients.| pandas, numpy, matplotlib.pyplot, seaborn, sklearn, scipy | 
+[Prognoses and predictions](https://github.com/rochter47/PraktikumProjects/tree/master/ML_baseline)|Creating baseline ML models, comparing effective indicators (logistic regression and RandomForestClassifier), churn prediction for sport-club and clusterization of clients.| pandas, numpy, matplotlib, seaborn, sklearn, scipy | 
 [Data preprocessing](https://github.com/rochter47/PraktikumProjects/tree/master/bank_clients_analysis)|During this project I applied preproccesing data skills.  Clean and analysis-ready data as the first step towards solving an analytical problem. Taking a closer look at tools that are used to compensate for less-than-perfect data.| pandas |   
 [Statistical Data Analysis](https://github.com/rochter47/PraktikumProjects/tree/master/statistical%20analysis_telecom_company)| Implemented statistical data analysis to checking hypothesis for approving  difference between different tariffs. | pandas,numpy,matplotlib.pyplot, scipy:stats as st  |
-
-hypothesis_prioritization_AB_Test_analysis|Hypothesis prioritization, preprocessing and implementing A/B test. Result Analysing.       https://github.com/rochter47/PraktikumProjects/tree/master/hypothesis_prioritization_AB_Test_analysis
-
-games_analysis_for_internet_shop|Deep exploratory data analysis of compute games market.     https://github.com/rochter47/PraktikumProjects/tree/master/games_analysis_for_internet_shop
-
-food_market_visualization|Visualization of insight and result of food market research.     https://github.com/rochter47/PraktikumProjects/tree/master/food_market_visualization
-
-flights_company_analysis|Load data from DB and checking hypothesis in statistics meaning.  https://github.com/rochter47/PraktikumProjects/tree/master/flights_company_analysis
-
-exploratory_data_analysis_estate_market|Applying exploratory data analysis of estate market.  https://github.com/rochter47/PraktikumProjects/tree/master/exploratory_data_analysis_estate_market
-
-business_metrics_research_entertainment_ticket_sales_platform|Calculating and visualization business indicators such as LTV, CAC, ROMI etc., cohort analysis for ticket sales platform.   https://github.com/rochter47/PraktikumProjects/tree/master/business_metrics_research_entertainment_ticket_sales_platform 
-
-app_food_delivery_event_based_analysis|Creating funnels, analyzed them, implement event based analysis.  https://github.com/rochter47/PraktikumProjects/tree/master/app_food_delivery_event_based_analysis
-
-TeddyFood_EDA|Implementing deep EDA and looking for any new insights for charity platform.  https://github.com/rochter47/PraktikumProjects/tree/master/TeddyFood_EDA
+[Data-informed decision making in business](https://github.com/rochter47/PraktikumProjects/tree/master/hypothesis_prioritization_AB_Test_analysis)|Hypothesis prioritization, preprocessing and implementing A/B test. Result Analysing.| pandas, numpy,datetime, matplotlib.pyplot, scipy import stats, datetime.timedelta, seaborn.|        
+[Preprocessing and EDA of games market](https://github.com/rochter47/PraktikumProjects/tree/master/games_analysis_for_internet_shop)|Deep exploratory data analysis of compute games market. | pandas, numpy,datetime, matplotlib.pyplot, scipy import stats, datetime.timedelta, seaborn |     
+[Food_market_visualization](https://github.com/rochter47/PraktikumProjects/tree/master/food_market_visualization)|Visualization of insight and result of food market research.|pandas, numpy,datetime, matplotlib, scipy import stats, datetime, seaborn, plotly |    
+[Collecting and Storing Data](https://github.com/rochter47/PraktikumProjects/tree/master/flights_company_analysis)|Load data from DB (SQL) and checking hypothesis in statistics meaning. | pandas, matplotlib|
+[Exploratory data analysis of estatemarket]( https://github.com/rochter47/PraktikumProjects/tree/master/exploratory_data_analysis_estate_market)|Applying exploratory data analysis of estate market. | pandas,  matplotlib |
+[Analysis of business indicators](https://github.com/rochter47/PraktikumProjects/tree/master/business_metrics_research_entertainment_ticket_sales_platform)|Calculating and visualization business indicators such as LTV, CAC, ROMI etc., cohort analysis for ticket sales platform. | pandas, numpy,datetime, matplotlib, scipy, seaborn  | 
+[Food-delivery app event_based_analysis](https://github.com/rochter47/PraktikumProjects/tree/master/app_food_delivery_event_based_analysis)|Creating funnels, analyzed them, implement event based analysis.| pandas, numpy, matplotlib, seaborn, scipy, datetime, math, statsmodels, plotly, numpy|
+[TeddyFood_EDA](https://github.com/rochter47/PraktikumProjects/tree/master/TeddyFood_EDA)|Implementing deep EDA and looking for any new insights for charity platform. | pandas, numpy, matplotlib, seaborn, scipy, datetime, statsmodels, plotly, numpy| 
 
 For any questions feel free to contact  rochter47@gmail.com.
