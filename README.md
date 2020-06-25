@@ -2,9 +2,9 @@
 My projects implemented while I having been part of Yandex.Praktikum. All of it was checked by more experienced code reviewer. Every critical notes was hard worked and rebuilt.  
 Name with link | Short desription|Libraries
 ----|-----|-----|
-[Prognoses and predictions](https://github.com/rochter47/PraktikumProjects/tree/master/ML_baseline)|Creating baseline ML models, comparing effective indicators (logistic regression and RandomForestClassifier), churn prediction for sport-club and clusterization of clients.| pandas, numpy, matplotlib.pyplot, seaborn, sklearn, scipy |
+[Prognoses and predictions](https://github.com/rochter47/PraktikumProjects/tree/master/ML_baseline)|Creating baseline ML models, comparing effective indicators (logistic regression and RandomForestClassifier), churn prediction for sport-club and clusterization of clients.| pandas, numpy, matplotlib.pyplot, seaborn, sklearn, scipy 
 
-[Data preprocessing](https://github.com/rochter47/PraktikumProjects/tree/master/bank_clients_analysis) | During this project I applied preproccesing data skills.  Clean and analysis-ready data as the first step towards solving an analytical problem. Taking a closer look at tools that are used to compensate for less-than-perfect data. | pandas |  
+[Data preprocessing](https://github.com/rochter47/PraktikumProjects/tree/master/bank_clients_analysis) | During this project I applied preproccesing data skills.  Clean and analysis-ready data as the first step towards solving an analytical problem. Taking a closer look at tools that are used to compensate for less-than-perfect data. | pandas   
 
 statistical analysis_telecom_company| Implemented statistical data analysis to checking hypothesis for approving  difference between different tariffs.   https://github.com/rochter47/PraktikumProjects/tree/master/statistical%20analysis_telecom_company
 
