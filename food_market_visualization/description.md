@@ -9,6 +9,7 @@
      - scipy import stats 
      - datetime.timedelta
      - seaborn 
+     - plotly
     
 
      
