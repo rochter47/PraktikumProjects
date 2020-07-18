@@ -2,6 +2,7 @@
 My projects implemented while I having been part of Yandex.Praktikum. All of it was checked by more experienced code reviewer. Every critical notes was hard worked and rebuilt.  
 Name with link | Short desription|Libraries|
 ----|-----|-----|
+[game_monetization](https://github.com/rochter47/PraktikumProjects/tree/master/game_model_monetization)|Game event analysis and preparing for creating monetization model|pandas, numpy, matplotlib, seaborn, sklearn, scipy, math|  
 [Prognoses and predictions](https://github.com/rochter47/PraktikumProjects/tree/master/ML_baseline)|Creating baseline ML models, comparing effective indicators (logistic regression and RandomForestClassifier), churn prediction for sport-club and clusterization of clients.| pandas, numpy, matplotlib, seaborn, sklearn, scipy | 
 [Data preprocessing](https://github.com/rochter47/PraktikumProjects/tree/master/bank_clients_analysis)|During this project I applied preproccesing data skills.  Clean and analysis-ready data as the first step towards solving an analytical problem. Taking a closer look at tools that are used to compensate for less-than-perfect data.| pandas |   
 [Statistical Data Analysis](https://github.com/rochter47/PraktikumProjects/tree/master/statistical%20analysis_telecom_company)| Implemented statistical data analysis to checking hypothesis for approving  difference between different tariffs. | pandas,numpy,matplotlib.pyplot, scipy:stats as st  |
